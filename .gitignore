@@ -6,6 +6,10 @@
 *.user
 *.sln.docstates
 
+# VS and VSCode temp files
+.vs/
+.vscode/
+
 # Build results
 
 [Dd]ebug/
